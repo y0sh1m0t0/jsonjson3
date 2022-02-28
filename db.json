@@ -1,0 +1,78 @@
+[
+	{
+		"name": "tiger",
+		"category": "animals"
+	},
+	{
+		"name": "cow",
+		"category": "animals"
+	},
+	{
+		"name": "horse",
+		"category": "animals"
+	},
+	{
+		"name": "wolf",
+		"category": "animals"
+	},
+	{
+		"name": "hippopotamus",
+		"category": "animals"
+	},
+	{
+		"name": "kangaroo",
+		"category": "animals"
+	},
+	{
+		"name": "giraffe",
+		"category": "animals"
+	},
+	{
+		"name": "bear",
+		"category": "animals"
+	},
+	{
+		"name": "Aaron",
+		"category": "people"
+	},
+	{
+		"name": "Basil",
+		"category": "people"
+	},
+	{
+		"name": "Cliff",
+		"category": "people"
+	},
+	{
+		"name": "Dan",
+		"category": "people"
+	},
+	{
+		"name": "Mercury",
+		"category": "plantes"
+	},
+	{
+		"name": "Venus",
+		"category": "plantes"
+	},
+	{
+		"name": "Earth",
+		"category": "plantes"
+	},
+	{
+		"name": "Mars",
+		"category": "plantes"
+	},
+	{
+		"name": "Jupiter",
+		"category": "plantes"
+	},
+	{
+		"name": "Saturn",
+		"category": "plantes"
+	},
+	{
+		"name": "Uranus",
+		"category": "plantes"
+	}
+]
